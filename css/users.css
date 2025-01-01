@@ -1,0 +1,16 @@
+body {
+    padding-top: 0px;
+}
+
+.navbar .nav-item {
+    margin-right: 20px;
+}
+
+.modal-header,
+.modal-footer {
+    border: none;
+}
+.scrollable {
+    height: calc(100vh - 60px);
+    overflow-y: auto;
+}
